@@ -8,6 +8,7 @@ QA Engineer
 
 É um prazer receber sua visita!
 
+__________________________________________________________________________________________________________________________________________________________________________
 Sobre mim...
 
 Sou formada em Sistemas de Informação, pós-graduada em Engenharia de Software com ênfase em qualidade de software e certificada ISTQB® Certified Tester Foundation Level (CTFL).
@@ -20,6 +21,8 @@ Além disso, possuo mais de 10 anos de experiência nas áreas administrativa, f
 
 Atualmente, estou aprimorando minhas habilidades em ferramentas como Cypress e Selenium para expandir minha experiencia em automação de testes.
 
+
+_____________________________________________________________________________________________________________________________________________________________________________________
 Aréa de Qualidade em minha vida...
 
 Desde que ingressei na área de qualidade, encontrei uma verdadeira afinidade com essa função.
@@ -32,12 +35,19 @@ Tenho evoluído gradativamente, aprimorando minhas habilidades e me dedicando a 
 
 Essa trajetória tem sido uma jornada de aprendizado e realização constante, onde meu comprometimento e paixão só cresce.
 
+
+_________________________________________________________________________________________________________________________________________________________________________
 Habilidades:
 
-• Planejamento e Execução de Testes Funcionais • Revisão e Validação de Requisitos • SQL e Banco de Dados • Conhecimento em Metodologias Ágeis (Scrum, Kanban) • Testes em Aplicações Web e Mobile
+• Planejamento e Execução de Testes Funcionais 
+• Revisão e Validação de Requisitos
+• SQL e Banco de Dados 
+• Conhecimento em Metodologias Ágeis (Scrum, Kanban) 
+• Testes em Aplicações Web e Mobile
 
 ente ser criativo em vez de listar todas as habilidades sem qualquer contexto. Para aqueles que estão desenvolvendo a página com seu portfólio, uma sugestão é que você use ícones do Font Awesome e do Iconify. Isso realmente ajuda a deixar a página de habilidades mais bonita
 
+____________________________________________________________________________________________________________________________________________________________________________
 Tecnologias com as quais é mais proficiente e familiarizado. habilidades dá ao visitante um bom entendimento de quais tecnologias você trabalhou.
 
 Projetos
