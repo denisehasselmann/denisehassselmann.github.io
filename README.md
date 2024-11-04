@@ -45,9 +45,7 @@ Habilidades:
 • Conhecimento em Metodologias Ágeis (Scrum, Kanban) 
 • Testes em Aplicações Web e Mobile
 
-ente ser criativo em vez de listar todas as habilidades sem qualquer contexto. Para aqueles que estão desenvolvendo a página com seu portfólio, uma sugestão é que você use ícones do Font Awesome e do Iconify. Isso realmente ajuda a deixar a página de habilidades mais bonita
 
 ____________________________________________________________________________________________________________________________________________________________________________
-Tecnologias com as quais é mais proficiente e familiarizado. habilidades dá ao visitante um bom entendimento de quais tecnologias você trabalhou.
-
+Tecnologias 
 Projetos
